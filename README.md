@@ -51,7 +51,7 @@
 يسعدني دائماً التواصل لمناقشة فرص تعاون جديدة أو تبادل الخبرات التقنية.
 
 - **LinkedIn:** [رابط ملفك الشخصي](https://www.linkedin.com)
-- **البريد الإلكتروني:** [your.email@example.com](haythem.tuni@gmail.com)
+- **البريد الإلكتروني:** [haythem.tuni@gmail.com](haythem.tuni@gmail.com)
 - **الموقع الشخصي:** [haythembouzouraa.github.io](https://haythembouzouraa.github.io)
 
 ---
