@@ -1,58 +1,58 @@
-# 🚀 Mon Portfolio - Haythem Bouzouraa
+# 🚀 ملف التعريف الشخصي | هيثم بوزوراء
 
-Bienvenue sur le dépôt de mon portfolio personnel. Ce projet présente mon parcours, mes compétences techniques et les réalisations dont je suis le plus fier.
-
----
-
-## 👤 Présentation Personnelle
-
-Passionné par les nouvelles technologies et le développement, je m'efforce de créer des solutions numériques innovantes et efficaces. Mon approche combine rigueur technique et créativité pour répondre aux défis du web moderne. 
-
-- **Objectif :** [Votre objectif actuel, ex: Développeur Full-Stack en quête de nouveaux défis]
-- **Localisation :** [Votre ville/Pays]
-- **Centres d'intérêt :** [Ex: Cloud Computing, IA, Open Source]
+مرحباً بكم في مستودع مشروعي الخاص. هذا الملف يقدم نظرة شاملة على مسيرتي المهنية، المهارات التقنية التي أتقنها، والمشاريع التي قمت بتطويرها.
 
 ---
 
-## 🛠 Technologies Maîtrisées
+## 👤 نبذة شخصية
 
-J'utilise un ensemble d'outils modernes pour mener à bien mes projets :
+شغوف بالتكنولوجيا والابتكار الرقمي، أسعى دائماً لتطوير حلول برمجية ذكية تلبي احتياجات المستخدمين وتواكب التطور السريع في عالم الويب والواقع المعزز. أجمع في عملي بين الدقة التقنية والرؤية الإبداعية.
 
-### Langages & Frameworks
-- **Frontend :** HTML5, CSS3, JavaScript (React, Vue.js)
-- **Backend :** Node.js, Python, PHP
-- **Mobile :** [Ex: Flutter, React Native]
-
-### Outils & Plateformes
-- **Cloud :** Microsoft Azure, AWS
-- **DevOps :** Git, Docker, GitHub Actions
-- **Design :** Figma, Adobe XD
+- **الهدف الحالي:** [مثلاً: مطور حلول سحابية وواقع معزز]
+- **الموقع:** [مدينتك، بلدك]
+- **مجالات الاهتمام:** الذكاء الاصطناعي، الحوسبة السحابية (Azure)، وتطوير تطبيقات الواقع المعزز (AR).
 
 ---
 
-## 🌟 Projets Phares
+## 🛠 التقنيات والمهارات
 
-Voici une sélection de mes travaux les plus significatifs :
+أمتلك خبرة في العمل مع مجموعة متنوعة من الأدوات واللغات البرمجية الحديثة:
 
-1. **[Nom du Projet 1]**
-   - **Description :** Une application de [votre description].
-   - **Stack :** React, Firebase.
-   - **Lien :** [Voir le projet](https://votre-lien.com)
+### لغات البرمجة وإطارات العمل
+- **تطوير الواجهات (Frontend):** HTML5, CSS3, JavaScript (React, Vue.js)
+- **تطوير الأنظمة الخلفية (Backend):** Node.js, Python, C#
+- **الواقع المعزز (AR):** Unity3D, Mixed Reality Toolkit (MRTK)
 
-2. **[Nom du Projet 2]**
-   - **Description :** Plateforme de gestion de [votre description].
-   - **Stack :** Python, Django, PostgreSQL.
-   - **Lien :** [Dépôt GitHub](https://github.com/...)
+### الأدوات والمنصات السحابية
+- **خدمات مايكروسوفت:** Microsoft Azure, Power Platform
+- **إدارة المشاريع:** Git, GitHub Actions, Docker
+- **التصميم:** Figma, Adobe XD
+
+---
+
+## 🌟 المشاريع البارزة
+
+إليك مجموعة من أفضل المشاريع التي عملت عليها مؤخراً:
+
+1. **[اسم المشروع الأول]**
+   - **الوصف:** تطبيق متخصص في [شرح بسيط للمشروع].
+   - **التقنيات المستخدمة:** React, Azure Functions.
+   - **رابط المشروع:** [مشاهدة العرض](https://...)
+
+2. **[اسم المشروع الثاني]**
+   - **الوصف:** منصة مبتكرة لخدمة [شرح بسيط للمشروع].
+   - **التقنيات المستخدمة:** C#, Unity, ARCore.
+   - **رابط المشروع:** [مستودع الكود](https://...)
 
 ---
 
-## 📬 Me Contacter
+## 📬 تواصل معي
 
-Je suis ouvert aux opportunités de collaboration et aux échanges passionnants.
+يسعدني دائماً التواصل لمناقشة فرص تعاون جديدة أو تبادل الخبرات التقنية.
 
-- **LinkedIn :** [://linkedin.com](https://www.://linkedin.com)
-- **Email :** [votre.email@exemple.com](mailto:votre.email@exemple.com)
-- **Site Web :** [haythembouzouraa.github.io](https://haythembouzouraa.github.io/haythem-bouzouraa-microsoft-ar.github.io/)
+- **LinkedIn:** [رابط ملفك الشخصي](https://www.linkedin.com)
+- **البريد الإلكتروني:** [your.email@example.com](mailto:your.email@example.com)
+- **الموقع الشخصي:** [haythembouzouraa.github.io](https://haythembouzouraa.github.io)
 
 ---
-*Dernière mise à jour : Mars 2026*
+*آخر تحديث: مارس 2026*
